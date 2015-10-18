@@ -17,7 +17,7 @@ namespace DuelistSharp
         private static Item Blink, armlet, mjollnir, medallion, solar, soulRing, urn, dust, bladeMail, bkb, abyssal;
         private static Hero me, target;
         private static Key toggleKey = Key.J;
-        private static Key activeKey = Key.Space;
+        private static Key activeKey = Key.Сtrl;
         private static Key bkbToggleKey = Key.G;
         private static Key killstealToggleKey = Key.K;
         private static bool toggle = true;
